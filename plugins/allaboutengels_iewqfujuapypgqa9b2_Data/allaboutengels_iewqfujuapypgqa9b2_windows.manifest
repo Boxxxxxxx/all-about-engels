@@ -1,0 +1,71 @@
+ManifestFileVersion: 0
+CRC: 796458299
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 051e78440896419a8ff073c966dd98f4
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 2ccb94dac19011b9fdf918eeb874741d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 29701588, guid: 6df25479881544e51b2008b783b25774, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 322d502b5ef5c0b41ad2acd38e229a98, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 51d6c297836d8904ab523f5e37e24e12, type: 3}
+- Class: 114
+  Script: {fileID: -743199427, guid: bb5e70adefb1848bab4b4e072558ee89, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72e4387d29d1f8c478019a082e9feca0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9e532fd290d5258408bfc5a5463380a5, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/AllAboutEngels/Prefabs/Peashooter.prefab
+- Assets/AllAboutEngels/Prefabs/Pea.prefab
+- Assets/AllAboutEngels/Prefabs/Small Plant.prefab
+- Assets/AllAboutEngels/Prefabs/Sunflower.prefab
+- Assets/AllAboutEngels/Prefabs/Zombie.prefab
+- Assets/AllAboutEngels/Prefabs/Garden.prefab
+- Assets/AllAboutEngels/Prefabs/Fence.prefab
+- Assets/AllAboutEngels/Prefabs/Sun.prefab
+- Assets/AllAboutEngels/Prefabs/Zombie Spawner.prefab
+Dependencies: []

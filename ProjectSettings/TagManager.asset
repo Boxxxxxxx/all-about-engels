@@ -11,32 +11,32 @@ TagManager:
   - 
   - Water
   - UI
+  - Trigger
+  - 
+  - 
+  - Player
+  - Item
+  - Avatar
   - 
   - 
   - 
   - 
+  - OnlyHitPlayer
   - 
   - 
   - 
   - 
+  - UIInteractable
   - 
+  - Tablet
   - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
-  - 
+  - SDKLayer1
+  - SDKLayer2
+  - SDKLayer3
+  - SDKLayer4
+  - SDKLayer5
+  - DistanceCullingSmall
+  - DistanceCullingLarge
   m_SortingLayers:
   - name: Default
     uniqueID: 0
